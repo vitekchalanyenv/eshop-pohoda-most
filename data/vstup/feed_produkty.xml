@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>KAV-001</ITEM_ID>
+    <PRODUCTNAME>Etiopie Yirgacheffe 250 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-001.jpg</IMGURL>
+    <PRICE_VAT>349</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000013</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KAV-002</ITEM_ID>
+    <PRODUCTNAME>Kolumbie Huila 250 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-002</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-002.jpg</IMGURL>
+    <PRICE_VAT>329</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000020</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KAV-003</ITEM_ID>
+    <PRODUCTNAME>Brazílie Santos 1 kg</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-003</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-003.jpg</IMGURL>
+    <PRICE_VAT>899</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000037</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KAV-004</ITEM_ID>
+    <PRODUCTNAME>Keňa AA 250 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-004</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-004.jpg</IMGURL>
+    <PRICE_VAT>389</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000044</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>2</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID></ITEM_ID>
+    <PRODUCTNAME>Espresso směs Klasik 1 kg</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/produkt</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/produkt.jpg</IMGURL>
+    <PRICE_VAT>749</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000051</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KAV-006</ITEM_ID>
+    <PRODUCTNAME>Bezkofeinová Mexiko 250 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-006</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-006.jpg</IMGURL>
+    <PRICE_VAT>359</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000068</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>MLY-001</ITEM_ID>
+    <PRODUCTNAME>Ruční mlýnek Timemore C3</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/mly-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/mly-001.jpg</IMGURL>
+    <PRICE_VAT>1890</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000075</EAN>
+    <MANUFACTURER>Timemore</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Mlýnky</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>MLY-002</ITEM_ID>
+    <PRODUCTNAME>Elektrický mlýnek Baratza Encore</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/mly-002</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/mly-002.jpg</IMGURL>
+    <PRICE_VAT>4290</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000082</EAN>
+    <MANUFACTURER>Baratza</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Mlýnky</CATEGORYTEXT>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-001</ITEM_ID>
+    <PRODUCTNAME>Dripper V60 keramický</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-001.jpg</IMGURL>
+    <PRICE_VAT>-549</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000099</EAN>
+    <MANUFACTURER>Hario</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Alternativní příprava</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-002</ITEM_ID>
+    <PRODUCTNAME>Filtry V60 papírové 100 ks</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-002</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-002.jpg</IMGURL>
+    <PRICE_VAT>149</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000108</EAN>
+    <MANUFACTURER>Hario</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Alternativní příprava</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-003</ITEM_ID>
+    <PRODUCTNAME>AeroPress Original</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-003</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-003.jpg</IMGURL>
+    <PRICE_VAT>999</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000112</EAN>
+    <MANUFACTURER>AeroPress</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Alternativní příprava</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KAV-003</ITEM_ID>
+    <PRODUCTNAME>Brazílie Santos 1 kg – AKCE</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/kav-003</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/kav-003.jpg</IMGURL>
+    <PRICE_VAT>799</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000037</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Káva | Zrnková káva</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-004</ITEM_ID>
+    <PRODUCTNAME>Konvička Fellow Stagg EKG</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-004</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-004.jpg</IMGURL>
+    <PRICE_VAT>4590</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000129</EAN>
+    <MANUFACTURER>Fellow</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Konvice</CATEGORYTEXT>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-005</ITEM_ID>
+    <PRODUCTNAME>Váha Timemore Black Mirror</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-005</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-005.jpg</IMGURL>
+    <PRICE_VAT>1 290,00</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000136</EAN>
+    <MANUFACTURER>Timemore</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Váhy</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-006</ITEM_ID>
+    <PRODUCTNAME></PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-006</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-006.jpg</IMGURL>
+    <PRICE_VAT>899</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000143</EAN>
+    <MANUFACTURER>Bodum</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Alternativní příprava</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PRI-007</ITEM_ID>
+    <PRODUCTNAME>Moka konvička Bialetti 3 šálky</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/pri-007</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/pri-007.jpg</IMGURL>
+    <PRICE_VAT>649</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000150</EAN>
+    <MANUFACTURER>Bialetti</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Alternativní příprava</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CAJ-001</ITEM_ID>
+    <PRODUCTNAME>Čaj Sencha Japonsko 100 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/caj-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/caj-001.jpg</IMGURL>
+    <PRICE_VAT>219</PRICE_VAT>
+    <VAT>20</VAT>
+    <EAN>8594000000167</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Čaj | Zelený čaj</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>CAJ-002</ITEM_ID>
+    <PRODUCTNAME>Čaj Earl Grey 100 g</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/caj-002</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/caj-002.jpg</IMGURL>
+    <PRICE_VAT>189</PRICE_VAT>
+    <VAT>12</VAT>
+    <EAN>8594000000174</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Čaj | Černý čaj</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>DAR-001</ITEM_ID>
+    <PRODUCTNAME>Dárková sada Káva &amp; mlýnek</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/dar-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/dar-001.jpg</IMGURL>
+    <PRICE_VAT>2190</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>859400000018</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Dárky</CATEGORYTEXT>
+    <DELIVERY_DATE>1</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>DAR-002</ITEM_ID>
+    <PRODUCTNAME>Dárkový poukaz 500 Kč</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/dar-002</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/dar-002.jpg</IMGURL>
+    <PRICE_VAT>500</PRICE_VAT>
+    <VAT>0</VAT>
+    <EAN>8594000000198</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Dárky</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>SER-001</ITEM_ID>
+    <PRODUCTNAME>Odvápňovač pro kávovary 250 ml</PRODUCTNAME>
+    <URL>https://www.prazirnaplus.cz/ser-001</URL>
+    <IMGURL>https://www.prazirnaplus.cz/img/ser-001.jpg</IMGURL>
+    <PRICE_VAT>199</PRICE_VAT>
+    <VAT>21</VAT>
+    <EAN>8594000000204</EAN>
+    <MANUFACTURER>Pražírna Plus</MANUFACTURER>
+    <CATEGORYTEXT>Příslušenství | Údržba</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+  </SHOPITEM>
+</SHOP>
