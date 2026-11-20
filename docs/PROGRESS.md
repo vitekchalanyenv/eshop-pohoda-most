@@ -7,11 +7,12 @@
 
 ## Rozpracováno
 
-- Lekce 01 – feedy (nezačato).
+- Lekce 01 – feedy: pojmy probrané, krok 1 (specifikace) probraný v chatu, soubor ještě nevznikl
+  (návrh je v `docs/HANDOFF.md`).
 
 ## Čeká na Vítka
 
-- Začít lekci 01 (`docs/lekce/01-feedy.md`).
+- Projít návrh specifikace z `docs/HANDOFF.md`, upravit a uložit do `docs/spec/01-validace-feedu.md`.
 
 ## Otevřené otázky
 
