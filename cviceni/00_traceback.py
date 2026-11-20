@@ -14,8 +14,8 @@ PRODUKTY = [
 
 
 def cena_bez_dph(produkt):
-    cena = float(produkt["cena_s_dph"])
-    sazba = produkt["sazba_dph"]
+    cena = float(produkt["cena_s_dph"].replace(" ", ""))
+    sazba = produkt["dph"]
     return round(cena / (1 + sazba / 100), 2)
 
 
